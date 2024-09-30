@@ -1,6 +1,6 @@
 # folio_app
 
-An Electron application with React
+This is an workfolio electron application for managing employee activities throughout the whole day  taking screenshots by an interval of 1 minute.It also has an admin panel to list out the employees individual data alogn with proof of screenshots.
 
 ## Recommended IDE Setup
 
@@ -32,3 +32,14 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+# account details
+
+# demo user
+
+ used id:demouser@gmail.com
+ password:12345678
+
+ # admin user
+
+ used id:demoadmin@gmail.com
+ password:12345678
